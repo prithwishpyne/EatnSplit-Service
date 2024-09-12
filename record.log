@@ -1,0 +1,222 @@
+13-Jul-24 19:31:40 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:1200
+ * Running on http://192.168.1.4:1200
+13-Jul-24 19:31:40 - INFO - [33mPress CTRL+C to quit[0m
+13-Jul-24 19:32:05 - INFO - 127.0.0.1 - - [13/Jul/2024 19:32:05] "POST /v1/addUser HTTP/1.1" 200 -
+13-Jul-24 19:32:25 - INFO - 127.0.0.1 - - [13/Jul/2024 19:32:25] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:32:53 - INFO - 127.0.0.1 - - [13/Jul/2024 19:32:53] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:32:55 - INFO - 127.0.0.1 - - [13/Jul/2024 19:32:55] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:33:01 - INFO - 127.0.0.1 - - [13/Jul/2024 19:33:01] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+13-Jul-24 19:33:01 - INFO - 127.0.0.1 - - [13/Jul/2024 19:33:01] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:33:02 - INFO - 127.0.0.1 - - [13/Jul/2024 19:33:02] "POST /v1/addUser HTTP/1.1" 200 -
+13-Jul-24 19:33:02 - INFO - 127.0.0.1 - - [13/Jul/2024 19:33:02] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:33:18 - INFO - 127.0.0.1 - - [13/Jul/2024 19:33:18] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:34:07 - INFO - 127.0.0.1 - - [13/Jul/2024 19:34:07] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:34:48 - INFO - 127.0.0.1 - - [13/Jul/2024 19:34:48] "OPTIONS /v1/editBalance/2 HTTP/1.1" 200 -
+13-Jul-24 19:34:49 - INFO - 127.0.0.1 - - [13/Jul/2024 19:34:49] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:34:49 - INFO - 127.0.0.1 - - [13/Jul/2024 19:34:49] "POST /v1/editBalance/2 HTTP/1.1" 200 -
+13-Jul-24 19:34:49 - INFO - 127.0.0.1 - - [13/Jul/2024 19:34:49] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:37:15 - INFO - 127.0.0.1 - - [13/Jul/2024 19:37:15] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:37:15 - INFO - 127.0.0.1 - - [13/Jul/2024 19:37:15] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:39:05 - INFO - 127.0.0.1 - - [13/Jul/2024 19:39:05] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:39:06 - INFO - 127.0.0.1 - - [13/Jul/2024 19:39:06] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:39:24 - INFO - 127.0.0.1 - - [13/Jul/2024 19:39:24] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:39:27 - INFO - 127.0.0.1 - - [13/Jul/2024 19:39:27] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:40:36 - INFO - 127.0.0.1 - - [13/Jul/2024 19:40:36] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:40:59 - INFO - 127.0.0.1 - - [13/Jul/2024 19:40:59] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:44:56 - INFO - 127.0.0.1 - - [13/Jul/2024 19:44:56] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 19:45:44 - INFO - 127.0.0.1 - - [13/Jul/2024 19:45:44] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:16:16 - INFO - 127.0.0.1 - - [13/Jul/2024 20:16:16] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:29:43 - INFO - 127.0.0.1 - - [13/Jul/2024 20:29:43] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:30:42 - INFO - 127.0.0.1 - - [13/Jul/2024 20:30:42] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:30:42 - INFO - 127.0.0.1 - - [13/Jul/2024 20:30:42] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:31:48 - INFO - 127.0.0.1 - - [13/Jul/2024 20:31:48] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:31:54 - INFO - 127.0.0.1 - - [13/Jul/2024 20:31:54] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:32:05 - INFO - 127.0.0.1 - - [13/Jul/2024 20:32:05] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:32:57 - INFO - 127.0.0.1 - - [13/Jul/2024 20:32:57] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:33:12 - INFO - 127.0.0.1 - - [13/Jul/2024 20:33:12] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:33:12 - INFO - 127.0.0.1 - - [13/Jul/2024 20:33:12] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:33:19 - INFO - 127.0.0.1 - - [13/Jul/2024 20:33:19] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:33:22 - INFO - 127.0.0.1 - - [13/Jul/2024 20:33:22] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:33:23 - INFO - 127.0.0.1 - - [13/Jul/2024 20:33:23] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:33:26 - INFO - 127.0.0.1 - - [13/Jul/2024 20:33:26] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:33:27 - INFO - 127.0.0.1 - - [13/Jul/2024 20:33:27] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:33:32 - INFO - 127.0.0.1 - - [13/Jul/2024 20:33:32] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:37:33 - INFO - 127.0.0.1 - - [13/Jul/2024 20:37:33] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:38:58 - INFO - 127.0.0.1 - - [13/Jul/2024 20:38:58] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:39:19 - INFO - 127.0.0.1 - - [13/Jul/2024 20:39:19] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:39:32 - INFO - 127.0.0.1 - - [13/Jul/2024 20:39:32] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:39:37 - INFO - 127.0.0.1 - - [13/Jul/2024 20:39:37] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+13-Jul-24 20:39:38 - INFO - 127.0.0.1 - - [13/Jul/2024 20:39:38] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:39:38 - INFO - 127.0.0.1 - - [13/Jul/2024 20:39:38] "POST /v1/addUser HTTP/1.1" 200 -
+13-Jul-24 20:39:38 - INFO - 127.0.0.1 - - [13/Jul/2024 20:39:38] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:39:40 - INFO - 127.0.0.1 - - [13/Jul/2024 20:39:40] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+13-Jul-24 20:44:07 - INFO - 127.0.0.1 - - [13/Jul/2024 20:44:07] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:11:17 - INFO - 127.0.0.1 - - [15/Jul/2024 22:11:17] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:11:24 - INFO - 127.0.0.1 - - [15/Jul/2024 22:11:24] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:12:20 - INFO - 127.0.0.1 - - [15/Jul/2024 22:12:20] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:12:26 - INFO - 127.0.0.1 - - [15/Jul/2024 22:12:26] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:14:25 - INFO - 127.0.0.1 - - [15/Jul/2024 22:14:25] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:14:29 - INFO - 127.0.0.1 - - [15/Jul/2024 22:14:29] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:14:51 - INFO - 127.0.0.1 - - [15/Jul/2024 22:14:51] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:21:58 - INFO - 127.0.0.1 - - [15/Jul/2024 22:21:58] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:22:43 - INFO - 127.0.0.1 - - [15/Jul/2024 22:22:43] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:24:20 - INFO - 127.0.0.1 - - [15/Jul/2024 22:24:20] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:24:36 - INFO - 127.0.0.1 - - [15/Jul/2024 22:24:36] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:24:43 - INFO - 127.0.0.1 - - [15/Jul/2024 22:24:43] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:24:43 - INFO - 127.0.0.1 - - [15/Jul/2024 22:24:43] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:24:43 - INFO - 127.0.0.1 - - [15/Jul/2024 22:24:43] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:24:43 - INFO - 127.0.0.1 - - [15/Jul/2024 22:24:43] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:25:55 - INFO - 127.0.0.1 - - [15/Jul/2024 22:25:55] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:26:12 - INFO - 127.0.0.1 - - [15/Jul/2024 22:26:12] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:26:12 - INFO - 127.0.0.1 - - [15/Jul/2024 22:26:12] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:26:12 - INFO - 127.0.0.1 - - [15/Jul/2024 22:26:12] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:26:12 - INFO - 127.0.0.1 - - [15/Jul/2024 22:26:12] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:26:35 - INFO - 127.0.0.1 - - [15/Jul/2024 22:26:35] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:26:47 - INFO - 127.0.0.1 - - [15/Jul/2024 22:26:47] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:26:58 - INFO - 127.0.0.1 - - [15/Jul/2024 22:26:58] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:27:57 - INFO - 127.0.0.1 - - [15/Jul/2024 22:27:57] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:29:39 - INFO - 127.0.0.1 - - [15/Jul/2024 22:29:39] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:30:40 - INFO - 127.0.0.1 - - [15/Jul/2024 22:30:40] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:30:51 - INFO - 127.0.0.1 - - [15/Jul/2024 22:30:51] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:31:09 - INFO - 127.0.0.1 - - [15/Jul/2024 22:31:09] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:31:14 - INFO - 127.0.0.1 - - [15/Jul/2024 22:31:14] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:34:25 - INFO - 127.0.0.1 - - [15/Jul/2024 22:34:25] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:34:25 - INFO - 127.0.0.1 - - [15/Jul/2024 22:34:25] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:34:25 - INFO - 127.0.0.1 - - [15/Jul/2024 22:34:25] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:34:26 - INFO - 127.0.0.1 - - [15/Jul/2024 22:34:26] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:34:28 - INFO - 127.0.0.1 - - [15/Jul/2024 22:34:28] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:34:51 - INFO - 127.0.0.1 - - [15/Jul/2024 22:34:51] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:35:04 - INFO - 127.0.0.1 - - [15/Jul/2024 22:35:04] "[33mOPTIONS /v1/editBalance/-300 HTTP/1.1[0m" 404 -
+15-Jul-24 22:35:45 - INFO - 127.0.0.1 - - [15/Jul/2024 22:35:45] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:35:45 - INFO - 127.0.0.1 - - [15/Jul/2024 22:35:45] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:35:45 - INFO - 127.0.0.1 - - [15/Jul/2024 22:35:45] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:36:30 - INFO - 127.0.0.1 - - [15/Jul/2024 22:36:30] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:36:36 - INFO - 127.0.0.1 - - [15/Jul/2024 22:36:36] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:37:13 - INFO - 127.0.0.1 - - [15/Jul/2024 22:37:13] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:37:38 - INFO - 127.0.0.1 - - [15/Jul/2024 22:37:38] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:37:41 - INFO - 127.0.0.1 - - [15/Jul/2024 22:37:41] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:37:53 - INFO - 127.0.0.1 - - [15/Jul/2024 22:37:53] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:37:53 - INFO - 127.0.0.1 - - [15/Jul/2024 22:37:53] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:37:53 - INFO - 127.0.0.1 - - [15/Jul/2024 22:37:53] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:38:13 - INFO - 127.0.0.1 - - [15/Jul/2024 22:38:13] "OPTIONS /v1/editBalance/300 HTTP/1.1" 200 -
+15-Jul-24 22:38:14 - ERROR - Exception on /v1/editBalance/300 [POST]
+Traceback (most recent call last):
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'editBalance' did not return a valid response. The function either returned None or ended without a return statement.
+15-Jul-24 22:38:14 - INFO - 127.0.0.1 - - [15/Jul/2024 22:38:14] "[35m[1mPOST /v1/editBalance/300 HTTP/1.1[0m" 500 -
+15-Jul-24 22:39:03 - INFO - 127.0.0.1 - - [15/Jul/2024 22:39:03] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:39:13 - INFO - 127.0.0.1 - - [15/Jul/2024 22:39:13] "OPTIONS /v1/editBalance/250 HTTP/1.1" 200 -
+15-Jul-24 22:39:13 - ERROR - Exception on /v1/editBalance/250 [POST]
+Traceback (most recent call last):
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'editBalance' did not return a valid response. The function either returned None or ended without a return statement.
+15-Jul-24 22:39:13 - INFO - 127.0.0.1 - - [15/Jul/2024 22:39:13] "[35m[1mPOST /v1/editBalance/250 HTTP/1.1[0m" 500 -
+15-Jul-24 22:39:49 - INFO - 127.0.0.1 - - [15/Jul/2024 22:39:49] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:40:16 - INFO - 127.0.0.1 - - [15/Jul/2024 22:40:16] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:40:27 - INFO - 127.0.0.1 - - [15/Jul/2024 22:40:27] "OPTIONS /v1/editBalance/250 HTTP/1.1" 200 -
+15-Jul-24 22:40:27 - ERROR - Exception on /v1/editBalance/250 [POST]
+Traceback (most recent call last):
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'editBalance' did not return a valid response. The function either returned None or ended without a return statement.
+15-Jul-24 22:40:27 - INFO - 127.0.0.1 - - [15/Jul/2024 22:40:27] "[35m[1mPOST /v1/editBalance/250 HTTP/1.1[0m" 500 -
+15-Jul-24 22:40:45 - INFO - 127.0.0.1 - - [15/Jul/2024 22:40:45] "OPTIONS /v1/editBalance/50 HTTP/1.1" 200 -
+15-Jul-24 22:40:46 - ERROR - Exception on /v1/editBalance/50 [POST]
+Traceback (most recent call last):
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prith\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'editBalance' did not return a valid response. The function either returned None or ended without a return statement.
+15-Jul-24 22:40:46 - INFO - 127.0.0.1 - - [15/Jul/2024 22:40:46] "[35m[1mPOST /v1/editBalance/50 HTTP/1.1[0m" 500 -
+15-Jul-24 22:41:21 - INFO - 127.0.0.1 - - [15/Jul/2024 22:41:21] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:41:32 - INFO - 127.0.0.1 - - [15/Jul/2024 22:41:32] "[33mOPTIONS /v1/editBalance/[object%20Object] HTTP/1.1[0m" 404 -
+15-Jul-24 22:42:00 - INFO - 127.0.0.1 - - [15/Jul/2024 22:42:00] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:42:10 - INFO - 127.0.0.1 - - [15/Jul/2024 22:42:10] "OPTIONS /v1/editBalance/4 HTTP/1.1" 200 -
+15-Jul-24 22:42:11 - INFO - 127.0.0.1 - - [15/Jul/2024 22:42:11] "POST /v1/editBalance/4 HTTP/1.1" 200 -
+15-Jul-24 22:42:17 - INFO - 127.0.0.1 - - [15/Jul/2024 22:42:17] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:43:27 - INFO - 127.0.0.1 - - [15/Jul/2024 22:43:27] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:43:37 - INFO - 127.0.0.1 - - [15/Jul/2024 22:43:37] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:43:56 - INFO - 127.0.0.1 - - [15/Jul/2024 22:43:56] "OPTIONS /v1/editBalance/1 HTTP/1.1" 200 -
+15-Jul-24 22:43:56 - INFO - 127.0.0.1 - - [15/Jul/2024 22:43:56] "POST /v1/editBalance/1 HTTP/1.1" 200 -
+15-Jul-24 22:44:16 - INFO - 127.0.0.1 - - [15/Jul/2024 22:44:16] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:44:16 - INFO - 127.0.0.1 - - [15/Jul/2024 22:44:16] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:44:17 - INFO - 127.0.0.1 - - [15/Jul/2024 22:44:17] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:44:28 - INFO - 127.0.0.1 - - [15/Jul/2024 22:44:28] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:44:45 - INFO - 127.0.0.1 - - [15/Jul/2024 22:44:45] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:44:45 - INFO - 127.0.0.1 - - [15/Jul/2024 22:44:45] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:44:45 - INFO - 127.0.0.1 - - [15/Jul/2024 22:44:45] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:45:27 - INFO - 127.0.0.1 - - [15/Jul/2024 22:45:27] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:45:54 - INFO - 127.0.0.1 - - [15/Jul/2024 22:45:54] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:46:11 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:11] "OPTIONS /v1/editBalance/4 HTTP/1.1" 200 -
+15-Jul-24 22:46:12 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:12] "POST /v1/editBalance/4 HTTP/1.1" 200 -
+15-Jul-24 22:46:12 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:12] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:46:22 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:22] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:46:27 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:27] "OPTIONS /v1/editBalance/6 HTTP/1.1" 200 -
+15-Jul-24 22:46:28 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:28] "POST /v1/editBalance/6 HTTP/1.1" 200 -
+15-Jul-24 22:46:28 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:28] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:46:48 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:48] "OPTIONS /v1/editBalance/2 HTTP/1.1" 200 -
+15-Jul-24 22:46:48 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:48] "POST /v1/editBalance/2 HTTP/1.1" 200 -
+15-Jul-24 22:46:48 - INFO - 127.0.0.1 - - [15/Jul/2024 22:46:48] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:47:20 - INFO - 127.0.0.1 - - [15/Jul/2024 22:47:20] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:47:33 - INFO - 127.0.0.1 - - [15/Jul/2024 22:47:33] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:48:19 - INFO - 127.0.0.1 - - [15/Jul/2024 22:48:19] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:48:32 - INFO - 127.0.0.1 - - [15/Jul/2024 22:48:32] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:48:32 - INFO - 127.0.0.1 - - [15/Jul/2024 22:48:32] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 22:48:32 - INFO - 127.0.0.1 - - [15/Jul/2024 22:48:32] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 22:48:58 - INFO - 127.0.0.1 - - [15/Jul/2024 22:48:58] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:21:58 - INFO - 127.0.0.1 - - [15/Jul/2024 23:21:58] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:27:33 - INFO - 127.0.0.1 - - [15/Jul/2024 23:27:33] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:32:12 - INFO - 127.0.0.1 - - [15/Jul/2024 23:32:12] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 23:32:12 - INFO - 127.0.0.1 - - [15/Jul/2024 23:32:12] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 23:32:12 - INFO - 127.0.0.1 - - [15/Jul/2024 23:32:12] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:32:16 - INFO - 127.0.0.1 - - [15/Jul/2024 23:32:16] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 23:32:16 - INFO - 127.0.0.1 - - [15/Jul/2024 23:32:16] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:32:20 - INFO - 127.0.0.1 - - [15/Jul/2024 23:32:20] "OPTIONS /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 23:32:20 - INFO - 127.0.0.1 - - [15/Jul/2024 23:32:20] "POST /v1/addUser HTTP/1.1" 200 -
+15-Jul-24 23:32:21 - INFO - 127.0.0.1 - - [15/Jul/2024 23:32:21] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:37:06 - INFO - 127.0.0.1 - - [15/Jul/2024 23:37:06] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:37:27 - INFO - 127.0.0.1 - - [15/Jul/2024 23:37:27] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:38:24 - INFO - 127.0.0.1 - - [15/Jul/2024 23:38:24] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:40:34 - INFO - 127.0.0.1 - - [15/Jul/2024 23:40:34] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:41:12 - INFO - 127.0.0.1 - - [15/Jul/2024 23:41:12] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:46:12 - INFO - 127.0.0.1 - - [15/Jul/2024 23:46:12] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
+15-Jul-24 23:48:26 - INFO - 127.0.0.1 - - [15/Jul/2024 23:48:26] "GET /v1/getAllUserDetails HTTP/1.1" 200 -
