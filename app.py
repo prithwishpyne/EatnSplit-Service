@@ -1,17 +1,21 @@
 from flask import Flask, jsonify, request
-from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy_serializer import SerializerMixin
-import datetime
-import requests
-import json
 from db import db
 from flask_cors import CORS
 import api_logic
+import yaml
 
 app = Flask(__name__)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///eatnsplit.db'
+with open("config.yaml","r") as file:
+    try:
+        config = yaml.safe_load(file)["db_creds"]
+    except yaml.YAMLError as exc:
+        print(exc)
+
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///eatnsplit.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://{}:{}@{}:{}/postgres'.format(config["username"], config["password"], config["url"], config["port"])
 db.init_app(app)
+# db = SQLAlchemy(app)
 CORS(app)
 
 with app.app_context():

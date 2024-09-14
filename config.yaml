@@ -1,0 +1,5 @@
+db_creds:
+  username: postgres
+  url: 3.110.175.188
+  port: 5432
+  password: mysecretpassword
